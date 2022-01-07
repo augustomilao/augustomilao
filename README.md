@@ -1,6 +1,6 @@
 ### Opa, Tudo bem? Eu sou o Augusto Milão 👋
 
-Todo Dev tem sua história, vou tentar resumir a minha para encaixar aqui
+Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto, vou deixar as minhas criações falarem por mim
 
 ![Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustomilao&show_icons=true&theme=midnight-purple)<br>
 
