@@ -29,7 +29,7 @@ Programar é como andar de bicicleta, a gente nunca esquece! 🖥️
 
 <p align="center"> 
 
- ## Visitas perfil <br>
+ ## Visitas no perfil <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/augustomilao/count.svg" />
  </p>
