@@ -23,8 +23,18 @@ Todo Dev tem sua história, vou tentar resumir a minha para encaixar aqui
 
 </div><br>
 
+<p align="center"> 
 Programar é como andar de bicicleta, a gente nunca esquece! 🖥️
+</p>
 
+<p align="center"> 
+
+ ## Visitas perfil <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/marcusviniciusteixeira/count.svg" />
+ </p>
+
+</p>
 <!--
 **augustomilao/augustomilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
