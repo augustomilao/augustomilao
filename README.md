@@ -6,7 +6,7 @@ Todo Dev tem sua história, vou tentar resumir a minha para encaixar aqui
 
 ### Abaixo tem as linguagens que eu mais utilizo 👇
 
-[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=augustomilao&langs_count=8)](https://github.com/augustomilao/github-readme-stats)
+[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=augustomilao&langs_count=8&theme=midnight-purple)](https://github.com/augustomilao/github-readme-stats)
 
 
 ### E aqui as linguagens que tenho domínio 👇
