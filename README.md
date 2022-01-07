@@ -31,7 +31,7 @@ Programar é como andar de bicicleta, a gente nunca esquece! 🖥️
 
  ## Visitas perfil <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/marcusviniciusteixeira/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/augustomilao/count.svg" />
  </p>
 
 </p>
