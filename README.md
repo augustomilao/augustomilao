@@ -24,7 +24,7 @@ Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto,
 </div><br>
 
 <p align="center"> 
-Programar é como andar de bicicleta, a gente nunca esquece! 🖥️
+Si vis pacem, para bellum 
 </p>
 
 <p align="center"> 
