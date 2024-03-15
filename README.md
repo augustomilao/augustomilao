@@ -23,8 +23,8 @@ Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto,
 
 </div><br>
 
-<p align="center"> 
-### Si vis pacem, para bellum 
+<p align="center" style="font-size:50px"> 
+Si vis pacem, para bellum 
 </p>
 
 <p align="center"> 
