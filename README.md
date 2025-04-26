@@ -1,51 +1,72 @@
-### Opa, Tudo bem? Eu sou o Augusto Milão 👋
+# Hi there, I'm Augusto Milão 👋
 
-Todo Dev tem sua história, poderia contar a minha pra vocês, mas por enquanto, vou deixar as minhas criações falarem por mim
-
-![Augusto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustomilao&show_icons=true&theme=midnight-purple)<br>
-
-### Abaixo tem as linguagens que eu mais utilizo 👇
-
-[![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=augustomilao&langs_count=8&theme=midnight-purple)](https://github.com/augustomilao/github-readme-stats)
+Welcome to my GitHub profile! I'm a **Backend Developer** with over 5 years of experience, primarily working with **PHP**. I love building robust systems, solving complex problems, and learning new technologies along the way.
 
 
-### E aqui as linguagens que tenho domínio 👇
-<div style="display: inline-block"><br>
-  
-  <img align="center" alt="C sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
-  <img align="center" alt="My SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-</div><br>
-
-<p align="center" style="font-size:50px"> 
-Si vis pacem, para bellum 
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
-<p align="center"> 
+---
 
- ## Visitas no perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/augustomilao/count.svg" />
- </p>
+## 🔧 Technologies & Tools
 
-</p>
-<!--
-**augustomilao/augustomilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+### Databases 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebird DB](https://img.shields.io/badge/Firebird-FF7900?style=for-the-badge&logo=firebird&logoColor=white)
+### Tools & Platforms  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Recent Projects
+
+### Rhino Autoparts  
+- Built a financial dashboard for cash flow management and forecasting.  
+- Designed a custom database for in-depth financial analysis.  
+
+### Cliostyle  
+- Developed a freight tracking system integrated with Sankhya ERP.  
+- Created an internal portal enabling seamless collaboration between Brazil-based designers and Chinese factories.  
+- Improved Customer Experience (CS) tools to support over 50,000 concurrent users without service interruptions.
+
+### Solidcon  
+- Fixed critical bugs affecting the rewards system and login functionalities.  
+- Developed mobile applications tailored for client needs.  
+
+---
+## 🙋‍♂️ Personal Infos
+
+### 🎓 Education
+
+- **Bachelor's in Computer Science** – UNISUAM (2019–2023)  
+- **Computer Technician** – SENAC (2016–2018)  
+
+### 🌍 Languages
+
+- Portuguese: Native
+- English: C1  
+- Spanish: B2  
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/augustomilao/)  
+- [GitHub](https://github.com/augustomilao)  
+- Email: augusto.milao01@gmail.com  
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
