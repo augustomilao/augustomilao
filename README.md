@@ -1,6 +1,6 @@
 # Hi there, I'm Augusto Milão 👋
 
-Welcome to my GitHub profile! I'm a **Backend Developer** with over 5 years of experience, primarily working with **PHP**. I love building robust systems, solving complex problems, and learning new technologies along the way.
+I'm a **Backend Developer** with over 5 years of experience, primarily working with **PHP**. I love building robust systems, solving complex problems, and learning new technologies along the way.
 
 
 
