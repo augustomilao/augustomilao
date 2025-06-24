@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF71D&vCenter=true&width=435&lines=Hi+there%2C+I'm+Augusto+Mil%C3%A3o+%F0%9F%91%8B)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF71D&vCenter=true&width=435&lines=Hi+there%2C+I'm+Augusto+Mil%C3%A3o+%F0%9F%91%8B)
 ---
 
 I'm a **Backend Developer** with over 5 years of experience, primarily working with **PHP**. I love building robust systems, solving complex problems, and learning new technologies along the way.
