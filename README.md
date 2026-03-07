@@ -99,9 +99,9 @@ SENAC — 2016–2018
 
 ## Languages
 
-Portuguese — Native
-English — C1
-Spanish — B2
+Portuguese — Native 
+English — C1 
+Spanish — B2 
 
 ---
 
