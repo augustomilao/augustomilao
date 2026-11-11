@@ -37,7 +37,7 @@ synchronization - Concurrency control, retries, and idempotency
 
 ## Professional Experience
 
-### Backend Engineering --- E-commerce Infrastructure
+### B4X --- E-commerce Software Engineer
 
 -   Built backend solutions connecting e-commerce platforms, ERPs, and
     marketplaces, enabling reliable data exchange across business
