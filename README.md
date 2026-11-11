@@ -1,131 +1,140 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=1FF71D\&vCenter=true\&width=500\&lines=Backend+Engineer+%7C+PHP+%7C+Laravel;Building+Scalable+Backend+Systems)
+![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF71D&vCenter=true&width=600&lines=Backend+Engineer+%7C+PHP+%7C+Laravel+%7C+Go;Building+Reliable+High-Volume+Systems)
 
----
+------------------------------------------------------------------------
 
 # Augusto Milão
 
-Backend Engineer with **5+ years of experience building scalable backend systems**, primarily using **PHP and Laravel**.
-Experienced in designing APIs, integrating external platforms, optimizing databases, and supporting high-traffic applications.
+Backend Engineer with **5+ years of experience** building backend
+systems, APIs, and data-intensive applications.
 
-I enjoy solving complex backend problems, designing reliable architectures, and continuously improving system performance.
+Focused on **e-commerce infrastructure, marketplace connectivity, ERP
+integrations, and high-volume data synchronization**. Experienced in
+asynchronous processing, distributed workflows, database optimization,
+and production troubleshooting.
 
----
+I work primarily with **PHP and Laravel**, with experience in Go, MySQL,
+Oracle, Docker, and Linux environments.
+
+------------------------------------------------------------------------
 
 ## Core Stack
 
-**Backend**
+**Backend** - PHP - Laravel - Symfony - Go - REST APIs
 
-* PHP
-* Laravel
-* Symfony
-* REST APIs
+**Databases** - MySQL - Oracle - MariaDB - Firebird
 
-**Data**
+**Processing & Integration** - Redis - Queues, workers, and background
+jobs - Marketplace and ERP integrations - API communication and data
+synchronization - Concurrency control, retries, and idempotency
 
-* MySQL
-* MariaDB
-* Firebird
+**Infrastructure & Tools** - Docker - Linux - Git - Postman
 
-**Other Languages**
+**Other Technologies** - Python (FastAPI, Streamlit) - JavaScript
+(React, Angular)
 
-* Python (FastAPI, Streamlit)
-* JavaScript (React, Angular)
+------------------------------------------------------------------------
 
-**Infrastructure & Tools**
+## Professional Experience
 
-* Linux Servers (Debian)
-* Postman
-* Git
-* API integrations
+### Backend Engineering --- E-commerce Infrastructure
 
----
+-   Built backend solutions connecting e-commerce platforms, ERPs, and
+    marketplaces, enabling reliable data exchange across business
+    systems.
+-   Designed asynchronous processing architectures with queues, workers,
+    and background jobs to support high-volume operations.
+-   Enabled large-scale synchronization of orders, products, and
+    inventory while maintaining data consistency across multiple
+    platforms.
+-   Improved system reliability through concurrency control, retry
+    mechanisms, idempotency, and automated failure handling.
+-   Improved database performance through query optimization, indexing,
+    transaction management, and batch processing using MySQL and Oracle.
+-   Developed backend services using PHP, Laravel, and Go in
+    Docker-based Linux production environments.
+-   Diagnosed and resolved production bottlenecks involving processing
+    delays, API failures, and data inconsistencies.
+-   Contributed to infrastructure processing approximately **1.5 million
+    requests per day** across marketplaces, ERP systems, and other
+    services.
 
-## Selected Projects
+### Rhino Auto Parts --- Development Team Lead
 
-### Rhino Autoparts – Financial Analytics Platform
+*May 2024 -- October 2024 \| Rio de Janeiro, Brazil*
 
-Developed a financial analytics dashboard to support business decision making and forecasting.
+-   Developed interactive dashboards that transformed operational data
+    into actionable insights for business decision-making.
+-   Built a unified Data Warehouse consolidating company-wide
+    spreadsheet data, improving consistency, accessibility, and
+    reporting efficiency.
+-   Automated repetitive operational tasks, reducing manual effort and
+    freeing team capacity for higher-value activities.
+-   Enabled cross-department access to critical business data, improving
+    information availability and operational planning.
 
-Key contributions:
+**Technologies:** Python · Pandas · Streamlit · Firebird
 
-* Designed a **custom analytical database structure** for financial data
-* Built an **interactive dashboard for cash flow analysis**
-* Automated financial reporting workflows
+### Cliostyle --- Freight Tracking & Internal Platform
 
-Technologies:
-Python • Pandas • Streamlit • Firebird
+-   Developed an internal platform integrating logistics workflows with
+    Sankhya ERP.
+-   Implemented a freight tracking system for logistics monitoring and
+    operational visibility.
+-   Built an internal collaboration portal connecting Brazilian
+    designers with Chinese factories.
+-   Improved system reliability and performance for applications
+    handling **50k+ concurrent users**.
 
----
+**Technologies:** PHP · MySQL · Linux · Sankhya ERP
 
-### Cliostyle – Freight Tracking & Internal Platform
+### Solidcon --- Rewards Platform & Mobile Systems
 
-Developed an internal system integrating logistics workflows with **Sankhya ERP**.
+-   Maintained and improved a production rewards platform used by
+    enterprise clients.
+-   Resolved critical issues in authentication and rewards modules,
+    improving application stability.
+-   Developed mobile solutions aligned with client business
+    requirements.
 
-Key contributions:
+**Technologies:** C++ · Blazor
 
-* Implemented a **freight tracking platform** for logistics monitoring
-* Built an internal collaboration portal connecting **Brazilian designers with Chinese factories**
-* Improved system reliability and performance for **50k+ concurrent users**
-
-Technologies:
-PHP • MySQL • Linux (Debian)
-
----
-
-### Solidcon – Rewards Platform & Mobile Systems
-
-Maintained and improved a production rewards platform used by enterprise clients.
-
-Key contributions:
-
-* Fixed critical issues in authentication and rewards modules
-* Improved stability of production systems
-* Developed mobile solutions aligned with client business requirements
-
-Technologies:
-C++ • Blazor
-
----
+------------------------------------------------------------------------
 
 ## Education
 
-**Bachelor’s Degree in Computer Science**
-UNISUAM — 2019–2023
+**Bachelor's Degree in Computer Science**\
+UNISUAM --- 2019--2023
 
-**Computer Technician**
-SENAC — 2016–2018
+**Computer Technician**\
+SENAC --- 2016--2018
 
----
+------------------------------------------------------------------------
 
 ## Languages
 
-Portuguese — Native |
-English — C1 |
-Spanish — B2 
+-   Portuguese --- Native
+-   English --- C1
+-   Spanish --- B2
 
----
+------------------------------------------------------------------------
 
-## Interests
+## Personal Projects & Interests
 
-Game Development • Video Editing • 3D Modeling • Cybersecurity Challenges
+Game Development · 3D Modeling · Video Editing · Cybersecurity
+Challenges
 
-Tools used in personal projects:
+**Tools:** Godot · Blender · Kdenlive · Audacity
 
-Godot • Blender • Kdenlive • Audacity
-
----
+------------------------------------------------------------------------
 
 ## Contact
 
-LinkedIn
-https://linkedin.com/in/augustomilao
+-   **LinkedIn:**
+    [linkedin.com/in/augustomilao](https://linkedin.com/in/augustomilao)
+-   **GitHub:**
+    [github.com/augustomilao](https://github.com/augustomilao)
+-   **Email:** <augusto.milao01@gmail.com>
 
-GitHub
-https://github.com/augustomilao
-
-Email
-[augusto.milao01@gmail.com](mailto:augusto.milao01@gmail.com)
-
----
-
-Open to **backend engineering opportunities**, remote or international.
+Open to **backend engineering opportunities**, including remote and
+international roles.
