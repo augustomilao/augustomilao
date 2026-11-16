@@ -75,7 +75,7 @@ synchronization - Concurrency control, retries, and idempotency
 
 **Technologies:** Python · Pandas · Streamlit · Firebird
 
-### Cliostyle --- Freight Tracking & Internal Platform
+### Cliostyle --- Developer
 
 -   Developed an internal platform integrating logistics workflows with
     Sankhya ERP.
@@ -88,7 +88,7 @@ synchronization - Concurrency control, retries, and idempotency
 
 **Technologies:** PHP · MySQL · Linux · Sankhya ERP
 
-### Solidcon --- Rewards Platform & Mobile Systems
+### Solidcon --- Software Intern
 
 -   Maintained and improved a production rewards platform used by
     enterprise clients.
